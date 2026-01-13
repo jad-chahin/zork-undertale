@@ -1,2 +1,2 @@
 # zork-undertale
-Final 'Zork' project for AP Computer science
+Final project for AP CS, based on the game Zork
